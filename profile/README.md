@@ -46,4 +46,4 @@ ___
 - 🥈 2nd place at Ludogorie Hack 2023, a three day hackathon. Certificates - [Stefan](https://drive.google.com/file/d/1MB2N8Uxlno4CbxroTRYmdYZPR5zkiGhA/view?usp=sharing), [Belis](https://drive.google.com/file/d/1O2kDYCMJNEaBctGEdnmd_23-JhalrdF4/view?usp=sharing)
 
 ## Get in Touch
-Have questions, suggestions, or just want to say hi? Drop us a line at stefanbelis932@gmail.com or reach out to [Stefan](https://github.com/stefan-petrov1) and [Belis](https://github.com/BelisAliosmanova)! We're all ears and excited to hear from you. Let's connect and make this project even better together.
+Have questions, suggestions, or just want to say hi? Drop us a line at stefanbelis932@gmail.com or reach out to [Stefan](https://github.com/stefan-petrov1) and [Belis](https://github.com/BelisAliosmanova)! We're all ears and excited to hear from you.
