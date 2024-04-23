@@ -8,7 +8,7 @@ Meet the faces behind Gin & Tonic:
 
 [**Belis**](https://github.com/BelisAliosmanova) **- Backend Developer:** A backend wizard, Belis specializes in Java, Spring Boot, MySQL, HTML. Her meticulous attention to detail and problem-solving skills ensure that our systems run smoothly and efficiently behind the scenes.
 
-[**Stefan**](https://github.com/stefan-petrov1) **- Full Stack Developer:** With a passion for creating seamless user experiences, Stefan specialises in React, Angular, TypeScript, Java, Spring Boot, MySQL, HTML, CSS, and SASS. His versatility and expertise ensure that our projects not only look great but also function flawlessly across platforms.
+[**Stefan**](https://github.com/stefan-petrov1) **- Full Stack Developer:** With a passion for creating seamless user experiences, Stefan specializes in React, Angular, TypeScript, Java, Spring Boot, MySQL, HTML, CSS, and SASS. His versatility and expertise ensure that our projects not only look great but also function flawlessly across platforms.
 
 Together, we form a dynamic duo, driving innovation and excellence within our organization.
 
