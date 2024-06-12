@@ -21,7 +21,9 @@ Together, we form a dynamic duo, driving innovation and excellence within our or
 **📊 Status:** Active development.
 
 **🏆 Awards:** 
+- 🥇 1st place at IT World - National Tournament in Information Technology 2024. [Stefan](https://drive.google.com/file/d/19_x5YfbCG2GVNAjSDQ6kyoHFHaZPc4JC/view), [Belis](https://drive.google.com/file/d/1YCecxmp1l291UFH0jzBoFMbc0fcWTqZJ/view)
 - 🥈 2nd place at Softuniada 2024, Web Projects over the age of 16. Certificates - [Stefan](https://drive.google.com/file/d/1TAeeAbTokbThkLA0V7lXD_SVAHYXWsvJ/view?usp=sharing), [Belis](https://drive.google.com/file/d/1bX8yCmPS4rljZPKqtCPPzeLZ7Whud8Qc/view?usp=sharing)
+- 🏅 7th place at the biggest information technology competition in Bulgaria - NOIT
 
 ___
 
